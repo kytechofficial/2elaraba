@@ -1510,6 +1510,12 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &231536062 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6793845113729284141, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6970160338657665052}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &248531361
 GameObject:
   m_ObjectHideFlags: 0
@@ -1924,6 +1930,12 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 293174439}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &297753355 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6332760262964768448, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6970160338657665052}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &313158929
 GameObject:
   m_ObjectHideFlags: 0
@@ -2155,6 +2167,12 @@ Transform:
   m_Father: {fileID: 1138149446}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &343645776 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6970160340377428384, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6970160338657665052}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &373914165
 GameObject:
   m_ObjectHideFlags: 0
@@ -6639,6 +6657,12 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.03627643, y: 0.033012614, z: 0.03045495}
   m_Center: {x: -0.0014585297, y: -0.0000017841658, z: 0.005071509}
+--- !u!1 &1368835250 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1308883861791013045, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6970160338657665052}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1374433319 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 097d1717b0d63e140963afd4f8fb338e,
@@ -6816,6 +6840,12 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1399638582}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1411956579 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 647358483778594896, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6970160338657665052}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1419339043
 GameObject:
   m_ObjectHideFlags: 0
@@ -7118,6 +7148,12 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1489154124}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1508012427 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2737016707613510846, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6970160338657665052}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1568246970
 GameObject:
   m_ObjectHideFlags: 0
@@ -8571,6 +8607,12 @@ Transform:
   m_Father: {fileID: 1917675772}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1892659252 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 677574294136120865, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6970160338657665052}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1896592419
 GameObject:
   m_ObjectHideFlags: 0
@@ -22914,6 +22956,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2804583726093718775, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 695376149}
+    - target: {fileID: 3141228613976081876, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 695376149}
+    - target: {fileID: 3729696925825646038, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 695376149}
+    - target: {fileID: 5219926903893283057, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 695376149}
     - target: {fileID: 6970160339917823336, guid: 948e76a75bd5d5543862d2c6149ea7b4,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -23028,6 +23090,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GamePanel
+      objectReference: {fileID: 0}
+    - target: {fileID: 6970160340440726521, guid: 948e76a75bd5d5543862d2c6149ea7b4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 948e76a75bd5d5543862d2c6149ea7b4, type: 3}
@@ -25507,6 +25574,46 @@ PrefabInstance:
       propertyPath: ilanYeri
       value: 
       objectReference: {fileID: 738628790}
+    - target: {fileID: 8415418043464323434, guid: 07312daac008f1f45be7af998fc499f0,
+        type: 3}
+      propertyPath: ilanlarSUV
+      value: 
+      objectReference: {fileID: 343645776}
+    - target: {fileID: 8415418043464323434, guid: 07312daac008f1f45be7af998fc499f0,
+        type: 3}
+      propertyPath: ilanlarSport
+      value: 
+      objectReference: {fileID: 1892659252}
+    - target: {fileID: 8415418043464323434, guid: 07312daac008f1f45be7af998fc499f0,
+        type: 3}
+      propertyPath: ilanlarBinek
+      value: 
+      objectReference: {fileID: 297753355}
+    - target: {fileID: 8415418043464323434, guid: 07312daac008f1f45be7af998fc499f0,
+        type: 3}
+      propertyPath: secenekPanel
+      value: 
+      objectReference: {fileID: 1411956579}
+    - target: {fileID: 8415418043464323434, guid: 07312daac008f1f45be7af998fc499f0,
+        type: 3}
+      propertyPath: ilanYeriSUV
+      value: 
+      objectReference: {fileID: 738628790}
+    - target: {fileID: 8415418043464323434, guid: 07312daac008f1f45be7af998fc499f0,
+        type: 3}
+      propertyPath: ilanYeriSport
+      value: 
+      objectReference: {fileID: 1368835250}
+    - target: {fileID: 8415418043464323434, guid: 07312daac008f1f45be7af998fc499f0,
+        type: 3}
+      propertyPath: ilanYeriBinek
+      value: 
+      objectReference: {fileID: 1508012427}
+    - target: {fileID: 8415418043464323434, guid: 07312daac008f1f45be7af998fc499f0,
+        type: 3}
+      propertyPath: geriTus
+      value: 
+      objectReference: {fileID: 231536062}
     - target: {fileID: 8415418043464323435, guid: 07312daac008f1f45be7af998fc499f0,
         type: 3}
       propertyPath: m_Name
