@@ -2816,7 +2816,7 @@ WheelCollider:
     spring: 35000
     damper: 1500
     targetPosition: 0.5
-  m_SuspensionDistance: 0.3
+  m_SuspensionDistance: 0.4
   m_ForceAppPointDistance: 0
   m_Mass: 20
   m_WheelDampingRate: 0.25
@@ -2825,13 +2825,13 @@ WheelCollider:
     m_ExtremumValue: 2
     m_AsymptoteSlip: 2
     m_AsymptoteValue: 1
-    m_Stiffness: 1.5
+    m_Stiffness: 1.2
   m_SidewaysFriction:
     m_ExtremumSlip: 1.5
     m_ExtremumValue: 2
     m_AsymptoteSlip: 1.8
     m_AsymptoteValue: 1.5
-    m_Stiffness: 1.5
+    m_Stiffness: 1
   m_Enabled: 1
 --- !u!114 &6068073097579386849
 MonoBehaviour:
@@ -2896,7 +2896,7 @@ WheelCollider:
     spring: 35000
     damper: 1500
     targetPosition: 0.5
-  m_SuspensionDistance: 0.3
+  m_SuspensionDistance: 0.4
   m_ForceAppPointDistance: 0
   m_Mass: 20
   m_WheelDampingRate: 0.25
@@ -2905,13 +2905,13 @@ WheelCollider:
     m_ExtremumValue: 2
     m_AsymptoteSlip: 2
     m_AsymptoteValue: 1
-    m_Stiffness: 1.5
+    m_Stiffness: 1.2
   m_SidewaysFriction:
     m_ExtremumSlip: 1.5
     m_ExtremumValue: 2
     m_AsymptoteSlip: 1.8
     m_AsymptoteValue: 1.5
-    m_Stiffness: 1.5
+    m_Stiffness: 1
   m_Enabled: 1
 --- !u!114 &6068073097623856899
 MonoBehaviour:
@@ -3006,7 +3006,7 @@ WheelCollider:
     spring: 35000
     damper: 1500
     targetPosition: 0.5
-  m_SuspensionDistance: 0.3
+  m_SuspensionDistance: 0.4
   m_ForceAppPointDistance: 0
   m_Mass: 20
   m_WheelDampingRate: 0.25
@@ -3015,13 +3015,13 @@ WheelCollider:
     m_ExtremumValue: 2
     m_AsymptoteSlip: 2
     m_AsymptoteValue: 1
-    m_Stiffness: 1.5
+    m_Stiffness: 1.2
   m_SidewaysFriction:
     m_ExtremumSlip: 1.5
     m_ExtremumValue: 2
     m_AsymptoteSlip: 1.8
     m_AsymptoteValue: 1.5
-    m_Stiffness: 1.5
+    m_Stiffness: 1
   m_Enabled: 1
 --- !u!114 &6068073098041906897
 MonoBehaviour:
@@ -3297,7 +3297,7 @@ WheelCollider:
     spring: 35000
     damper: 1500
     targetPosition: 0.5
-  m_SuspensionDistance: 0.3
+  m_SuspensionDistance: 0.4
   m_ForceAppPointDistance: 0
   m_Mass: 20
   m_WheelDampingRate: 0.25
@@ -3306,13 +3306,13 @@ WheelCollider:
     m_ExtremumValue: 2
     m_AsymptoteSlip: 2
     m_AsymptoteValue: 1
-    m_Stiffness: 1.5
+    m_Stiffness: 1.2
   m_SidewaysFriction:
     m_ExtremumSlip: 1.5
     m_ExtremumValue: 2
     m_AsymptoteSlip: 1.8
     m_AsymptoteValue: 1.5
-    m_Stiffness: 1.5
+    m_Stiffness: 1
   m_Enabled: 1
 --- !u!114 &6068073099289351513
 MonoBehaviour:
