@@ -5,13 +5,13 @@ using UnityEngine;
 public class DaySystem : MonoBehaviour
 {
 
-    public float saat=0f, gunHizi=0.2f;
+    public float saat, gunHizi=0.2f;
     public GameObject gunes;
     public float gunesZ;
     // Start is called before the first frame update
     void Start()
     {
-        saat = 0;
+        //saat = 0;
     }
 
     // Update is called once per frame

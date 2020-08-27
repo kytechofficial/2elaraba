@@ -11127,7 +11127,12 @@ PrefabInstance:
     - target: {fileID: 8415418043464323432, guid: 07312daac008f1f45be7af998fc499f0,
         type: 3}
       propertyPath: gunHizi
-      value: 0.1
+      value: 0.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 8415418043464323432, guid: 07312daac008f1f45be7af998fc499f0,
+        type: 3}
+      propertyPath: saat
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8415418043464323433, guid: 07312daac008f1f45be7af998fc499f0,
         type: 3}
